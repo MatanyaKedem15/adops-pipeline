@@ -1,0 +1,3 @@
+campaign_id,source,country,date,requests,impressions,clicks,revenue
+EU_Football_Highlights,web,UK,2025-09-01,110000,21900,1095,493.00
+PremierLeague_Matchday,push,UK,2025-09-01,72000,7430,313,141.00
