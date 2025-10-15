@@ -1,0 +1,3 @@
+campaign_id,source,country,date,requests,impressions,clicks,revenue
+Maccabi_TLV_Live,in-app,IL,2025-09-01,120000,22000,1166,490.17
+Derby_Push_Notification,push,IL,2025-09-01,60000,5000,277,114.13
